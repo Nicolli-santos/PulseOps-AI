@@ -3,6 +3,10 @@
 
 Sistema de análise e previsão de risco de atraso em entregas, desenvolvido como projeto de estudo e portfólio.
 
+## Demonstração
+
+https://github.com/Nicolli-santos/PulseOps-AI/raw/refs/heads/main/demo_pulseops.mp4
+
 ## Sobre o projeto
 
 O PulseOps AI é um projeto que utiliza análise de dados e Machine Learning para identificar padrões associados a atrasos em entregas e estimar o risco de atraso de novos pedidos.
